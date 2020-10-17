@@ -17,9 +17,9 @@ No meu tempo livre gosto de desenhar, jogar e, acima de tudo, construir códigos
 ## Como me encontrar?
 Sinceramente, é bem tranquilo me achar pela internet, seja por redes de desenho ou de código, em todas você pode fácilmente me encontrar procurando por: `AlexandreSenpai`. Mas listarei para vocês alguns links diretos.
 
-- <a href="https://www.linkedin.com/in/alexandre-r-152432134/"><img src="https://github.com/AlexandreSenpai/AlexandreSenpai/linkedin.svg" width="16" /> LinkedIn<a/>
-- <a href="https://twitter.com/AlexandreSenpa1"><img src="https://github.com/AlexandreSenpai/AlexandreSenpai/twitter.svg" width="16" /> Twitter<a/> 
-- <a href="https://www.youtube.com/c/AlexandreRamosSenpai/"><img src="https://github.com/AlexandreSenpai/AlexandreSenpai/youtube.svg" width="16" /> Youtube<a/> 
+- <a href="https://www.linkedin.com/in/alexandre-r-152432134/"><img src="https://github.com/AlexandreSenpai/AlexandreSenpai/blob/main/linkedin.svg" width="16" /> LinkedIn<a/>
+- <a href="https://twitter.com/AlexandreSenpa1"><img src="https://github.com/AlexandreSenpai/AlexandreSenpai/blob/main/twitter.svg" width="16" /> Twitter<a/> 
+- <a href="https://www.youtube.com/c/AlexandreRamosSenpai/"><img src="https://github.com/AlexandreSenpai/AlexandreSenpai/blob/main/youtube.svg" width="16" /> Youtube<a/> 
 
 ## Fatos aleatórios sobre mim
 *essa sessão só está aqui por que o github sugeriu*

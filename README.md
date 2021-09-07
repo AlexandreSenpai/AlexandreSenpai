@@ -32,4 +32,4 @@ Sinceramente, é bem tranquilo me achar pela internet, seja por redes de desenho
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato engraçado: Sou péssimo em jogos de azar, mesmo gostando, e dou graças a Deus que caça-níquel é proíbido no Brasil.
 
-![](https://komarev.com/ghpvc/?username=AlexandreSenpai&color=blueviolet&style=flat)
+![](https://komarev.com/ghpvc/?username=AlexandreSenpai&color=blueviolet&style=flat) ![](https://www.codewars.com/users/AlexandreSenpai/badges/micro)

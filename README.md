@@ -10,7 +10,7 @@
 </center>  
 
 # Aehooo! <br>Seja bem-vindo ao meu perfil no Github!
-Atualmente atuo como Engenheiro de Dados no time de Google Cloud Platform da Hvar Consulting.    
+Atualmente atuo como Desenvolvedor Backend no time de Google Cloud Platform da Hvar Consulting.    
 
 No meu tempo livre gosto de desenhar, jogar e, acima de tudo, construir códigos e/ou sistemas inúteis religiosamente focados em algo relacionado a anime/mangá. Desde aplicações em real-time à scrappers. hahahaha
 

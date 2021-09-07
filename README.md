@@ -25,7 +25,7 @@ Sinceramente, é bem tranquilo me achar pela internet, seja por redes de desenho
 *essa sessão só está aqui por que o github sugeriu*
 
 - 🔭 Atualmente estou trabalhando em: Um código para traduzir e editar automáticamente mangás.
-- 🌱 Atualmente estou aprendendo: Dataflow avançado ***[Apache Beam para ser mais exato]***
+- 🌱 Atualmente estou aprendendo: Arquitetura de microsserviços.
 - 👯 Estou procurando colaborar em: Qualquer projeto, sério, se tiver espaço pra contrib tô dentro.
 - 💬 Me pergunte sobre: Python, as vezes, mesmo que eu não saiba, é algo novo que eu aprendo.
 - 📺 Estilo preferido de jogo: Rítmo. OSU É MUITO BOM.

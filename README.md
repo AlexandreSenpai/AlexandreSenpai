@@ -10,7 +10,7 @@
 </center>  
 
 # Aehooo! <br>Seja bem-vindo ao meu perfil no Github!
-Atualmente atuo como Engenheiro de Software no time de Google Cloud Platform da Hvar Consulting.    
+Atualmente atuo como Engenheiro de Software na Globant.    
 
 No meu tempo livre gosto de desenhar, jogar e, acima de tudo, construir códigos e/ou sistemas inúteis religiosamente focados em algo relacionado a anime/mangá. Desde aplicações em real-time à scrappers. hahahaha
 
@@ -24,8 +24,8 @@ Sinceramente, é bem tranquilo me achar pela internet, seja por redes de desenho
 ## Fatos aleatórios sobre mim
 *essa sessão só está aqui por que o github sugeriu*
 
-- 🔭 Atualmente estou trabalhando em: Um código para traduzir e editar automáticamente mangás.
-- 🌱 Atualmente estou aprendendo: Arquitetura de microsserviços.
+- 🔭 Atualmente estou trabalhando em: No desenvolvimento da Enma.
+- 🌱 Atualmente estou aprendendo: Media Streaming.
 - 👯 Estou procurando colaborar em: Qualquer projeto, sério, se tiver espaço pra contrib tô dentro.
 - 💬 Me pergunte sobre: Python, as vezes, mesmo que eu não saiba, é algo novo que eu aprendo.
 - 📺 Estilo preferido de jogo: Rítmo. OSU É MUITO BOM.
